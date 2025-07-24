@@ -1,17 +1,37 @@
-## Hi there 👋
+# Hi, I'm Nalan 👋  
 
-<!--
-**nalantishantha/nalantishantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **3rd Year Computer Science Undergraduate**  
+University of Colombo School of Computing (UCSC)  
 
-Here are some ideas to get you started:
+💡 **About Me:**  
+- Passionate about **backend development**, **data science**, and **Machine Learning**   
+- I enjoy solving coding challenges, building cool projects, and experimenting with new tech  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am a undergraduate of university of colombo school of computing.
+---
+
+## 🛠 Languages & Tools
+**Languages:**  
+`Python` • `JavaScript` • `PHP` • `R`  
+
+**Frameworks & Libraries:**  
+`React` • `Node.js` • `Django`  
+
+---
+
+![Nalan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalantishantha&show_icons=true&theme=radical)
+
+---
+
+## 🚀 What I'm Learning Right Now
+- Deep dive into **Machine Learning** 
+- Building projects with **React + Node.js**
+- Exploring **data-driven apps** with Python
+
+---
+
+## 📫 Connect With Me
+- **Email:** nalantishantha@gmail.com  
+- **LinkedIn:**   
+- **Portfolio:**  
+
+---
