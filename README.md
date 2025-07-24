@@ -16,13 +16,14 @@ University of Colombo School of Computing (UCSC)
 **Frameworks & Libraries:**  
 `React` • `Node.js` • `Django`  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFEA00?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-787CB5?style=flat-square&logo=php&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-4CAF50?style=flat-square&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFEA00?style=plastic&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-787CB5?style=plastic&logo=php&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-4CAF50?style=plastic&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
+
 
 
 
