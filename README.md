@@ -4,7 +4,7 @@
 University of Colombo School of Computing (UCSC)  
 
 💡 **About Me:**  
-- Passionate about **backend development**, **data science**, and **Machine Learning**   
+- Passionate about **Backend Development**, **Data Science**, **Data Engineering**, and **Machine Learning**   
 - I enjoy solving coding challenges, building cool projects, and experimenting with new tech  
 
 ---
